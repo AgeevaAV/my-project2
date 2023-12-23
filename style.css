@@ -1,6 +1,29 @@
-.header{
-    background-image: url(https://vsegda-pomnim.com/uploads/posts/2022-03/1647379836_53-vsegda-pomnim-com-p-ozero-zimnee-foto-60.jpg);
+*{
+    margin: 0;
+}
+header{
+    background-image: url(img/forest.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder ;
+    color: #fff;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.facebook{
+    margin: 25px;
 }
