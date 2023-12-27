@@ -70,3 +70,20 @@ header{
     background-color:  #E8594E;
 
 }
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 60px;
+    width: 800px;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.text-stories{
+    font-size: 16px;
+    color:#1C2E3D;
+    ;
+}
