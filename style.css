@@ -74,10 +74,10 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    height: 60px;
+    height: 75px;
     width: 800px;
     background-color: #fff;
-    padding-top: 20px;
+    padding-top: 28px;
     padding-bottom: 15px;
     padding-left: 40px;
     padding-right: 40px;
@@ -86,4 +86,32 @@ header{
     font-size: 16px;
     color:#1C2E3D;
     ;
+}
+.section-1{
+    margin-top: 80px;
+}
+.travel-pro{
+    font-size: 64px;
+    color: #1C2E3D;
+    font-weight: 550;
+    margin-left: 176px;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 176px;
+    margin-right: 110px;
+    margin-bottom: 150px;
+}
+.card{
+    margin: 18px;
+}
+.card-img{
+    filter: brightness(90%);
+}
+.bottom-text{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
 }
