@@ -164,4 +164,25 @@ section{
 .featured-story{
     background: rgba(60, 74, 80, 0.907);
     width: 500px;
+    padding-left: 100px;
+    padding-top: 90px;
+}
+.ppl{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+hr{
+    color: white;
+}
+.ppl-text{
+    color: #fff;
+    margin-left: 25px;
+}
+.ppl-main{
+    font-size: 18px;
+}
+.ppl-sec{
+    font-size: 10px;
+    color: #a7a7a7;
 }
