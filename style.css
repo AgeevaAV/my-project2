@@ -154,4 +154,14 @@ section{
 .sec-2{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+}
+.story{
+    font-size: 64px;
+    color: #fff;
+    font-weight: bolder;
+}
+.featured-story{
+    background: rgba(60, 74, 80, 0.907);
+    width: 500px;
 }
