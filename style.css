@@ -188,19 +188,41 @@ hr{
 }
 .button-m{
     display: inline-block;
-    transform: translate(-505px,-140px);
+    transform: translate(20px,-515px);
 }
 .video{
     display: flex;
     flex-direction: column;
     margin-top: 98px;
+    margin-bottom: 50px;
 }
 .f-v{
     font-size: 64px;
     color: #1C2E3D;
     margin-left: 547px ;
+    font-weight: bolder;
 
 }
 .f-sv{
-    margin-left: 504px;
+    margin-left: 500px;
+    color: #a7a7a7;
+    font-size: 16px;
+}
+.rocky-mountary{
+    display: flex;
+    flex-direction: row;
+}
+.sea{
+    margin-top: 90px;
+    margin-right: 8px;
+}
+.desert{
+    margin-top: 40px;
+    margin-left: 8px;
+}
+.text-m{
+    display: inline-block;
+    transform: translate(-90px,-87px);
+    font-size: 32px;
+    color: #fff;
 }
