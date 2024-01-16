@@ -186,3 +186,21 @@ hr{
     font-size: 10px;
     color: #a7a7a7;
 }
+.button-m{
+    display: inline-block;
+    transform: translate(-505px,-140px);
+}
+.video{
+    display: flex;
+    flex-direction: column;
+    margin-top: 98px;
+}
+.f-v{
+    font-size: 64px;
+    color: #1C2E3D;
+    margin-left: 547px ;
+
+}
+.f-sv{
+    margin-left: 504px;
+}
