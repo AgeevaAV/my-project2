@@ -226,3 +226,64 @@ hr{
     font-size: 32px;
     color: #fff;
 }
+.blue-btn{
+    background-color: #73AFBA;
+}
+.list-group{
+    font-weight: normal;
+    padding-left: 20px;
+    color: #1C2E3D;
+    font-weight: bolder;
+    font-size: 11px;
+    letter-spacing: 0.8px;
+}
+.list-group-1{
+    border-radius: 5px;
+    width: 501px;
+    display: inline-block;
+    transform: translate(0px,-70px);
+    padding-left: 200px;
+}
+.img-m{
+    background-image: url(img/Mask\ Group\ \(5\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1130px;
+    height: 769px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.text-s{
+    font-size: 64px;
+    color: #fff;
+    font-weight: bolder;
+    padding-top: 300px;
+}
+nav{
+    padding-left: 174px;
+}
+.sign-up{
+    padding-left: 135px;
+}
+.sm-text-s{
+    font-size: 16px;
+    color: #fff;
+}
+ul{
+    width: 501px;
+    height: 320px;
+    background-color: #fff;
+}
+
+.gray{
+    color: #a5a5a5;
+}
+li{
+    padding-top: 30px;
+}
+.email{
+    padding-top: 500px ;
+    padding-right: 70px;
+}
