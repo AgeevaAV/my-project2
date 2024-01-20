@@ -110,6 +110,7 @@ header{
 .card-img{
     filter: brightness(90%);
 }
+
 #feature{
     font-size: 11px;
     margin-top: 600px;
@@ -286,4 +287,223 @@ li{
 .email{
     padding-top: 500px ;
     padding-right: 70px;
+}
+.inspiration{
+    margin-top: 210px;
+}
+.insp{
+    margin-left: 557px;
+    color: #1C2E3D;
+    font-size: 64px;
+    font-weight: bolder;
+}
+.sm-insp{
+    margin-left: 457px;
+    color: #788692;
+    font-size: 16px;
+}
+.blog-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 90px;
+}
+.mask-7{
+    margin-left: 18px;
+}
+.tx-bl-1{
+    font-size: 12px;
+    color: #fff;
+    font-weight: bolder;
+    display: inline-block;
+    transform: translate(25px,-145px);
+}
+.tx-sm-bl-1{
+    font-size: 32px;
+    display: inline-block;
+    transform: translate(-75px,-100px);
+    color: #fff;
+}
+.feature-bl{
+    font-size: 10px;
+    font-weight: bolder;
+    background: rgba(0, 0, 0, 0.459);
+    width: 130px;
+    height: 56px;
+    border-radius: 25px;
+    color: #fff;
+    display: inline-block;
+    transform: translate(95px,-480px);
+    padding-left: 37px;
+    padding-top: 20px;
+}
+.group-bl{
+    margin-left: 18px;
+}
+.frame-2{
+    display: inline-block;
+    transform: translate(-355px,-480px);
+}
+.tx-bl-1-2{
+    display: inline-block;
+    transform: translate(55px,-135px);
+    color: #fff;
+    font-weight: bolder;
+    font-size: 12px;
+}
+.barselona{
+    font-size: 32px;
+    color: #fff;
+    display: inline-block;
+    transform: translate(-41px,-95px);
+}
+.blog-2{
+    display: flex;
+    flex-direction: row;
+}
+.text-beach{
+    color: #fff;
+    font-size: 12px;
+    font-weight:bolder ;
+    transform: translate(25px,-185px);
+
+}
+.b-text-beach{
+    font-size: 32px;
+    color: #fff;
+    display: inline-block;
+    transform: translate(15px,-185px);
+}
+.beach{
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.air-text{
+    font-size: 32px;
+    display: inline-block;
+    transform: translate(15px,-185px);
+    color: #fff;
+}
+.air{
+    margin-right: 18px;
+}
+.mask-10{
+    filter: brightness(30%);
+}
+.text-coup{
+    color: #fff;
+    font-size: 10px;
+    font-weight: bolder;
+    display: inline-block;
+    transform: translate(199px,-505px);
+}
+.b-text-coip{
+    color: #fff;
+    font-size: 32px;
+    display: inline-block;
+    transform: translate(50px,-305px);
+    font-weight: 30;
+}
+.blog-3{
+    display: flex;
+    flex-direction: row;
+    margin-top: -120px;
+}
+.forest{
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.f-frame{
+    display: inline-block;
+    transform: translate(50px,-455px);
+}
+.text-f{
+    color: #fff;
+    font-size: 12px;
+    font-weight: bolder;
+    display: inline-block;
+    transform: translate(-25px,-145px);
+}
+.sm-text-f{
+    color: #fff;
+    font-size: 32px;
+    display: inline-block;
+    transform: translate(-125px,-105px);
+}
+.feature-sea{
+    font-size: 10px;
+    font-weight: bolder;
+    background: rgba(0, 0, 0, 0.459);
+    width: 130px;
+    height: 56px;
+    border-radius: 25px;
+    color: #fff;
+    padding-left: 37px;
+    padding-top: 20px;
+    display: inline-block;
+    transform: translate(690px,-460px);
+}
+.sea-text{
+    font-size: 32px;
+    color: #fff;
+    display: inline-block;
+    transform: translate(-95px,-105px);
+}
+.gray-1{
+    margin-top: 60px;
+    color: #383d42;
+}
+.footer{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.text-cp{
+    color:#100E0B;
+    font-size: 14px;
+    font-weight: bolder;
+    letter-spacing: 0.2;
+}
+.green{
+    color: #57A773;
+    border-bottom: 2px solid;
+}
+.bl-comp{
+    font-size: 14px;
+    color: #959EA6;
+    
+}
+.user-img{
+    display: inline-block;
+    transform: translate(-40px,20px);
+}
+.d-flex{
+    width: 350px;
+    height: 64px;
+}
+.btn-f{
+    width: 350px;
+    height: 64px;
+    color: #fff;
+    background-color: #73AFBA;
+    font-size: 10px;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 125px;
+    margin-top: 18px;
+    border-radius: 8px;
+}
+.footer-after{
+    margin-top: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.last-text{
+    color: #959EA6;
+    font-size: 13px;
+    padding: 60px;
+}
+.g-2{
+    margin-top: 150px;
 }
